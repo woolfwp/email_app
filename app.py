@@ -129,7 +129,7 @@ def upload_file():
     if file:
         filepath = os.path.join('bases_de_datos.json')
         file.save(filepath)
-        flash('El archivo JSON ha sido cargado y procesado con éxito.')
+        flash('El archivo JSON ha sido cargado y procesado con éxito, Los Emails correspondientes fueron enviados')
         emails = procesar_bases_de_datos(filepath)
         for email in emails:
             enviar_email(email['email_manager'], email['motivo'])

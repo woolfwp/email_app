@@ -1,0 +1,62 @@
+[
+    {
+        "nombre_base_datos": "db1",
+        "email_owner": "user7490@example.com",
+        "email_manager": "user7490@example.com",
+        "criticidad": "baja"
+    },
+    {
+        "nombre_base_datos": "db2",
+        "email_owner": "user7494@example.com",
+        "email_manager": "user7494@example.com",
+        "criticidad": "alta"
+    },
+    {
+        "nombre_base_datos": "db3",
+        "email_owner": "user8716@example.com",
+        "email_manager": "user8716@example.com",
+        "criticidad": "baja"
+    },
+    {
+        "nombre_base_datos": "db4",
+        "email_owner": "user8960@example.com",
+        "email_manager": "user8960@example.com",
+        "criticidad": ""
+    },
+    {
+        "nombre_base_datos": "db5",
+        "email_owner": "user3925@example.com",
+        "email_manager": "user3925@example.com",
+        "criticidad": "media"
+    },
+    {
+        "nombre_base_datos": "db6",
+        "email_owner": "user9694@example.com",
+        "email_manager": "user9694@example.com",
+        "criticidad": "baja"
+    },
+    {
+        "nombre_base_datos": "db7",
+        "email_owner": "user1390@example.com",
+        "email_manager": "user1390@example.com",
+        "criticidad": "baja"
+    },
+    {
+        "nombre_base_datos": "db8",
+        "email_owner": "user2638@example.com",
+        "email_manager": "user2638@example.com",
+        "criticidad": " "
+    },
+    {
+        "nombre_base_datos": "db9",
+        "email_owner": "user1324@example.com",
+        "email_manager": "user1324@example.com",
+        "criticidad": "media"
+    },
+    {
+        "nombre_base_datos": "db10",
+        "email_owner": "user8102@example.com",
+        "email_manager": "user8102@example.com",
+        "criticidad": "baja"
+    }
+]

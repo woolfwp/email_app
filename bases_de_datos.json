@@ -45,7 +45,7 @@
         "nombre_base_datos": "db8",
         "email_owner": "user2638@example.com",
         "email_manager": "user2638@example.com",
-        "criticidad": " "
+        "criticidad": ""
     },
     {
         "nombre_base_datos": "db9",

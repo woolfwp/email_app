@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos de configuración de entorno
+.env
+
+# Archivos generados por pyinstaller
+dist/
+build/
+*.spec
+
+# Archivos de caché
+__pycache__/
+*.py[cod]
+*$py.class

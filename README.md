@@ -10,8 +10,8 @@ Para ejecutar la aplicación, sigue los siguientes pasos:
 1. Clonar el Repositorio: Clona el repositorio de la aplicación desde GitHub o copia los archivos en tu máquina local.
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git clone https://github.com/woolfwp/email_app.git
+   cd email_app
    ```
 
 2. Instalar Dependencias: Asegúrate de tener Docker instalado en tu máquina. 
